@@ -11,16 +11,15 @@
 // $blue: #06bcef;
 $darkpurple: rgb(29, 11, 45);
 $darkpurple-invert: rgb(214, 214, 214);
-$lightpurple: rgb(177, 163, 188);
+$lightpurple: rgb(253, 251, 255);
 $lightpurple-invert: rgb(0, 0, 0);
 $family-sans-serif: "Open Sans", "Arial", sans-serif;
 
 // 3. Set the derived variables
 $primary: $darkpurple;
 $primary-invert: $darkpurple-invert;
-$info: $lightpurple;
-$info-invert: $lightpurple-invert;
 $link: $primary;
+$card-background-color: $lightpurple;
 
 // 4. Import the rest of Bulma
 
